@@ -3,5 +3,5 @@ var animation = bodymovin.loadAnimation ({
     renderer: 'svg',
     loop: true,
     autoplay: true,
-    path: 'lottie1.json'
+    path: 'animation.json'
 })
